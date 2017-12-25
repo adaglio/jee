@@ -12,7 +12,7 @@
 *.dmg
 *.gz
 *.iso
-*.jar
+#*.jar
 *.rar
 *.tar
 *.zip
@@ -33,7 +33,7 @@ target/
 # eclipse project file
 .settings/
 .classpath
-.project
+#.project
 
 # NetBeans specific
 nbproject/private/
