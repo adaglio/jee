@@ -1,0 +1,1 @@
+# MSK - Modular Stammdaten Koordination
