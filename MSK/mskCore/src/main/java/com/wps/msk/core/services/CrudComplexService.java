@@ -115,7 +115,8 @@ public class CrudComplexService {
 		Object ref = this.em.getReference(clazz, t);
 		this.em.remove(ref);
 	}
-
+	
+	
 	/**
 	 * 
 	 * Update a  entity.
